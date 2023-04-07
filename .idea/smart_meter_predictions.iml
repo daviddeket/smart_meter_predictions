@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="case-study" jdkType="Python SDK" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/nilmtk" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nilmtk-contrib" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="smart-meter-predictions" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="dsProject" />
     <orderEntry type="module" module-name="automated_shorts" />
+    <orderEntry type="module" module-name="analyseanwendugen" />
+    <orderEntry type="module" module-name="Downloads" />
   </component>
 </module>

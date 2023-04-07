@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Downloads/.idea/Downloads.iml" filepath="$USER_HOME$/Downloads/.idea/Downloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../analyseanwendugen/.idea/analyseanwendugen.iml" filepath="$PROJECT_DIR$/../analyseanwendugen/.idea/analyseanwendugen.iml" />
       <module fileurl="file://$PROJECT_DIR$/../automated-shorts/automated_shorts/.idea/automated_shorts.iml" filepath="$PROJECT_DIR$/../automated-shorts/automated_shorts/.idea/automated_shorts.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/smart_meter_predictions.iml" filepath="$PROJECT_DIR$/.idea/smart_meter_predictions.iml" />
