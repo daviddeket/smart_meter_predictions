@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Energy Disaggregation Dashboard</title>
+</head>
+<body>
+    <h1>Energy Disaggregation Results</h1>
+    <table>
+        <tr>
+            <th>Appliance</th>
+            <th>Energy Usage</th>
+        </tr>
+        {% for appliance, usage in results.items() %}
+            <tr>
+                <td>{{ appliance }}</td>
+                <td>{{ usage }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
