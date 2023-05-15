@@ -1,3 +1,5 @@
+## The birt.py file has to be replaced bert.py -> nilmtk-contrib\nilmtk_contrib\disaggregate\bert.py
+
 from nilmtk.api import API
 from nilmtk.disaggregate import Mean
 from nilmtk_contrib.disaggregate import DAE,Seq2Point, Seq2Seq, RNN, BERT
